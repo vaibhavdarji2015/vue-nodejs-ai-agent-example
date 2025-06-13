@@ -1,0 +1,177 @@
+[
+    {
+      "id": "prod101",
+      "name": "Wireless Noise-Cancelling Headphones",
+      "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
+      "price": 249.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod102",
+      "name": "Ergonomic Office Chair",
+      "description": "Adjustable chair with lumbar support and breathable mesh for long work sessions.",
+      "price": 189.00,
+      "category": "Office Furniture"
+    },
+    {
+      "id": "prod103",
+      "name": "4K Ultra HD Smart TV (55 inch)",
+      "description": "Vibrant 4K display with smart TV features, built-in streaming apps.",
+      "price": 599.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod104",
+      "name": "Organic Cotton Bedding Set",
+      "description": "Soft and breathable duvet cover and pillowcases, made from 100% organic cotton.",
+      "price": 79.50,
+      "category": "Home Goods"
+    },
+    {
+      "id": "prod105",
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact and powerful speaker with rich bass and 12-hour playtime. Water-resistant.",
+      "price": 59.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod106",
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated water bottle keeping drinks cold for 24h and hot for 12h. 750ml.",
+      "price": 25.00,
+      "category": "Kitchenware"
+    },
+    {
+      "id": "prod107",
+      "name": "Gaming Laptop (RTX 4070)",
+      "description": "High-performance gaming laptop with NVIDIA RTX 4070, Intel i7, 16GB RAM.",
+      "price": 1499.00,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod108",
+      "name": "Yoga Mat (Non-slip)",
+      "description": "Thick, comfortable, and non-slip yoga mat for all types of yoga and fitness.",
+      "price": 35.00,
+      "category": "Fitness"
+    },
+    {
+      "id": "prod109",
+      "name": "Electric Coffee Grinder",
+      "description": "Compact electric grinder with adjustable settings for various brew types.",
+      "price": 45.00,
+      "category": "Kitchenware"
+    },
+    {
+      "id": "prod110",
+      "name": "External SSD 1TB (USB-C)",
+      "description": "Fast and portable solid-state drive with USB-C connectivity, 1TB storage.",
+      "price": 120.00,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod111",
+      "name": "Smart Watch",
+      "description": "Fitness tracker and notification display watch with heart rate monitor.",
+      "price": 150.00,
+      "category": "Wearables"
+    },
+    {
+      "id": "prod112",
+      "name": "Mechanical Keyboard",
+      "description": "Gaming mechanical keyboard with RGB lighting and clicky switches.",
+      "price": 99.99,
+      "category": "Peripherals"
+    },
+    {
+      "id": "prod113",
+      "name": "Travel Backpack",
+      "description": "Durable and spacious backpack for travel, with multiple compartments and laptop sleeve.",
+      "price": 75.00,
+      "category": "Bags"
+    },
+    {
+      "id": "prod114",
+      "name": "Bluetooth Earbuds",
+      "description": "Compact wireless earbuds with great sound and 6 hours battery life.",
+      "price": 79.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod115",
+      "name": "Desk Lamp with Wireless Charger",
+      "description": "Modern desk lamp with adjustable brightness and integrated wireless phone charger.",
+      "price": 65.00,
+      "category": "Home Decor"
+    },
+    {
+      "id": "prod116",
+      "name": "Resistance Bands Set",
+      "description": "Set of 5 varying resistance bands for full body workouts.",
+      "price": 29.99,
+      "category": "Fitness"
+    },
+    {
+      "id": "prod117",
+      "name": "Digital Camera",
+      "description": "Entry-level mirrorless camera with 24MP sensor and 4K video.",
+      "price": 499.00,
+      "category": "Photography"
+    },
+    {
+      "id": "prod118",
+      "name": "Air Fryer",
+      "description": "5.8-quart air fryer for healthy cooking, with digital touchscreen.",
+      "price": 89.99,
+      "category": "Kitchen Appliances"
+    },
+    {
+      "id": "prod119",
+      "name": "Smart Doorbell",
+      "description": "Video doorbell with motion detection, two-way talk, and cloud storage.",
+      "price": 129.00,
+      "category": "Smart Home"
+    },
+    {
+      "id": "prod120",
+      "name": "Robot Vacuum Cleaner",
+      "description": "Automated vacuum cleaner with smart mapping and app control.",
+      "price": 299.00,
+      "category": "Home Appliances"
+    },
+    {
+      "id": "prod121",
+      "name": "Laptop Sleeve 13-inch",
+      "description": "Protective neoprene sleeve for 13-inch laptops, slim and durable.",
+      "price": 19.99,
+      "category": "Accessories"
+    },
+    {
+      "id": "prod122",
+      "name": "External Hard Drive 2TB",
+      "description": "High-capacity external HDD for backup and storage.",
+      "price": 85.00,
+      "category": "Storage"
+    },
+    {
+      "id": "prod123",
+      "name": "Wireless Gaming Mouse",
+      "description": "Ergonomic gaming mouse with adjustable DPI and RGB lighting.",
+      "price": 49.99,
+      "category": "Peripherals"
+    },
+    {
+      "id": "prod124",
+      "name": "Portable Projector",
+      "description": "Mini projector for home cinema, supports 1080p and has built-in speaker.",
+      "price": 199.00,
+      "category": "Electronics"
+    },
+    {
+      "id": "prod125",
+      "name": "Smart Light Bulbs (2-pack)",
+      "description": "Dimmable LED smart bulbs, controlled via app or voice assistant.",
+      "price": 29.99,
+      "category": "Smart Home"
+    }
+  ]
